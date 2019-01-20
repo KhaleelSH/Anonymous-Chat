@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "973996477012",
+    "firebase_url": "https://anonymous-chat-bcb1e.firebaseio.com",
+    "project_id": "anonymous-chat-bcb1e",
+    "storage_bucket": "anonymous-chat-bcb1e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973996477012:android:ca8e8cabf0396137",
+        "android_client_info": {
+          "package_name": "com.khaleelshaheen.anonymouschat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "973996477012-l6i1ksj0oum31a6ok1temukj8h1ch4ov.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDH3uWPtKAjH5ncLsN-Vbum9j1mi6OMgA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

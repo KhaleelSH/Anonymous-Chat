@@ -1,0 +1,27 @@
+name: anonymous_chat
+description: A new Flutter project.
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_auth: ^0.6.6
+  shared_preferences: ^0.4.3
+  cloud_firestore: ^0.8.2+3
+  cached_network_image: ^0.5.1
+  intl: ^0.15.7
+  image_picker: ^0.4.12
+  firebase_storage: ^1.0.4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/avatar.png
